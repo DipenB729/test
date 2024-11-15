@@ -1,0 +1,7 @@
+git file of bijesh
+
+git clone repo url
+git add .
+git commit -m "message"
+git pull origin main/master/branch name
+git push origin main/master/ or branch name
